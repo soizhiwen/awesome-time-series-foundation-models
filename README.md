@@ -6,6 +6,10 @@
 [[paper](https://arxiv.org/pdf/2410.16032)]
 [[official code](https://anonymous.4open.science/r/TimeMixerPP)]
 
+[ICLR] **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**
+[[paper](https://arxiv.org/pdf/2409.16040)]
+[[official code](https://github.com/Time-MoE/Time-MoE)]
+
 
 ### 2024
 
