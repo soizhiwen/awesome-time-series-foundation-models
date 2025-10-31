@@ -25,6 +25,10 @@
 [[paper](https://arxiv.org/pdf/2405.14616)]
 [[official code](https://github.com/kwuking/TimeMixer)]
 
+[ICML] **MOMENT: A Family of Open Time-series Foundation Models**
+[[paper](https://arxiv.org/pdf/2402.03885)]
+[[official code](https://github.com/moment-timeseries-foundation-model/moment)]
+
 [AAAI] **ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis**
 [[paper](https://openreview.net/pdf?id=vpJMJerXHU)]
 [[official code](https://github.com/luodhhh/ModernTCN)]
